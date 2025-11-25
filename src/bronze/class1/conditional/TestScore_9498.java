@@ -1,4 +1,4 @@
-package bronze.conditional;
+package bronze.class1.conditional;
 
 import java.util.Scanner;
 

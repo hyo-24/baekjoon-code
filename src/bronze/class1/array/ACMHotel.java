@@ -1,4 +1,4 @@
-package bronze.array;
+package bronze.class1.array;
 
 import java.util.Scanner;
 

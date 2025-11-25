@@ -1,4 +1,4 @@
-package bronze.string;
+package bronze.class1.string;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package bronze.loop;
+package bronze.class1.loop;
 
 import java.util.Scanner;
 

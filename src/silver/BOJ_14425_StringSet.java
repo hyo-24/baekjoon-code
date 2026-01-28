@@ -11,7 +11,7 @@ public class BOJ_14425_StringSet {
         int sizeS = scanner.nextInt();
         int sizeM = scanner.nextInt();
         Set<String> S = new HashSet<>(sizeS);
-        List<String> M = new ArrayList<>(sizeM); // ✅ M은 중복이 가능해서 List로 설정했다
+        Set<String> M = new HashSet<>(sizeM);
 
         System.out.println("집합 S 의 문자열들을 입력하시오");
         for (int i = 0; i < sizeS; i++) {

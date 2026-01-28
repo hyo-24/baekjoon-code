@@ -3,7 +3,7 @@ package silver;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Silver1181 {
+public class BOJ_1181_WordSort {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

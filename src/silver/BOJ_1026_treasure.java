@@ -1,7 +1,6 @@
 package silver;
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Scanner;
 
 public class BOJ_1026_treasure {

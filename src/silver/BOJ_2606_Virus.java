@@ -18,6 +18,7 @@ public class BOJ_2606_Virus { // 배운 개념은 아니지만 일단 풀어봄 
         graph = new ArrayList[computers+1];
         for (int i = 1; i <= computers; i++) graph[i] = new ArrayList<>();
 
+        // ✅ 서로 연결하는 로직 (핵심)
         for (int i = 0; i < connect; i++) {
             int a = scanner.nextInt();
             int b = scanner.nextInt();

@@ -70,6 +70,6 @@ public class BOJ_2583_Domain {
                 }
             }
         }
-        return wide;
+        return wide; // ✅ 넓이는 해당하는 배열의 수를 구하면 된다. 좌표로 계산하는게 아니다!
     }
 }

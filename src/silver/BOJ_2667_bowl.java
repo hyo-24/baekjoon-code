@@ -37,6 +37,7 @@ public class BOJ_2667_bowl {
                 }
             }
         }
+
         System.out.println(apartNum);
         Collections.sort(result);
         for (Integer i : result) {
